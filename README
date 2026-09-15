@@ -1,0 +1,29 @@
+# Countdown Timer
+
+A simple and responsive countdown timer built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Start the countdown
+- Pause the countdown
+- Reset the timer
+- Set a custom time in minutes
+- Simple and user-friendly interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+
+1. Enter the required number of minutes.
+2. Click Set Time.
+3. Click Start to begin the countdown.
+4. Use Pause to stop temporarily.
+5. Use Reset to restart the timer.
+
+## Project Preview
+
+This project is deployed using GitHub Pages.
